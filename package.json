@@ -1,0 +1,24 @@
+{
+  "name": "paginate-response",
+  "version": "1.0.0",
+  "description": "this is a package for getting response data as a pagination in expressjs with mongodb only",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "paginate",
+    "pagination",
+    "express",
+    "mongodb"
+  ],
+  "author": "het patel",
+  "license": "MIT",
+  "devDependencies": {
+    "mongoose": "^8.5.3",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}

@@ -12,7 +12,10 @@
     "paginate",
     "pagination",
     "express",
-    "mongodb"
+    "mongodb",
+    "typescript",
+    "mongoose",
+    "express-pagination"
   ],
   "author": "het patel",
   "license": "MIT",
